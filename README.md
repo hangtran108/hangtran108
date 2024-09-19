@@ -23,12 +23,7 @@
 
 ## 🔥 About Me
 
-I am passionate about random events and love solving optimization problems by applying mathematical algorithms and ML/DL models. During my Bachelor's in Applied Mathematics, I developed a strong foundation in **statistical modeling** and **optimization algorithms**. Now, as a Master's student in Data Science at VU Amsterdam, I'm diving deeper into advanced machine learning and deep learning techniques.
-
-### 🔑 Key Interests
-- Random events simulation & analysis
-- Mathematical modeling & optimization algorithms
-- Machine Learning (ML) & Deep Learning (DL) models
+I am passionate about random events and love solving optimization problems by applying mathematical algorithms and ML/DL models. During my Bachelor's in Applied Mathematics, I developed a strong foundation in statistical modeling and optimization algorithms. Now, as a Master's student in Data Science at VU Amsterdam, I'm diving deeper into advanced machine learning and deep learning techniques.
 
 ---
 
@@ -58,5 +53,5 @@ I am passionate about random events and love solving optimization problems by ap
 
 ## 📫 Let's Connect!
 
-- LinkedIn: [Hang Tran]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/tvhang))
+- LinkedIn: [Hang Tran](https://www.linkedin.com/in/tvhang)
 - Email: [tranviethang1082000@gmail.com](mailto:tranviethang1082000@gmail.com)
