@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://user-images.githubusercontent.com/yourimage.png](https://raw.githubusercontent.com/hangtran108/hangtran108/refs/heads/main/Make%20your%20README.png)" alt="Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/hangtran108/hangtran108/refs/heads/main/Make%20your%20README.png" alt="Banner" width="100%" />
 </div>
 
 # Hi there, I'm Hang Tran]! 👋
