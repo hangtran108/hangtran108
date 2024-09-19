@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/hangtran108/hangtran108/refs/heads/main/Make%20your%20README.png" alt="Banner" width="100%" />
 </div>
 
-# Hi there, I'm Hang Tran]! 👋
+# Hi there, I'm Hang Tran! 👋
 🎓 **Master's student in Data Science** at [Vrije Universiteit Amsterdam](https://vu.nl/en).  
 📊 **Bachelor's in Applied Mathematics** from [International University, Vietnam Ho Chi Minh City](https://www.hcmiu.edu.vn/).  
 💻 **Data Scientist | Applied Mathematician | Optimization Enthusiast**
