@@ -5,7 +5,7 @@
 # Hi there, I'm Hang Tran! 👋
 🎓 **Master's student in Data Science** at [Vrije Universiteit Amsterdam](https://vu.nl/en).  
 📊 **Bachelor's in Applied Mathematics** from [International University, Vietnam Ho Chi Minh City](https://www.hcmiu.edu.vn/).  
-💻 **Data Scientist | Applied Mathematician | Optimization Enthusiast**
+💻 **Data Scientist | Business Analyst | Optimization Enthusiast**
 
 ---
 
@@ -36,7 +36,7 @@ I am passionate about random events and love solving optimization problems by ap
 - **Others:** GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hangtran108&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -44,9 +44,9 @@ I am passionate about random events and love solving optimization problems by ap
 ## 📈 Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hangtran108&theme=radical" alt="GitHub Streak Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hangtran108&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ---
