@@ -34,7 +34,7 @@ I am passionate about random events and love solving optimization problems by ap
 - **Data Tools:** Google BigQuery, Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow
 - **Web Development:** PHP, HTML5, CSS
 - **Databases:** MySQL, PostgreSQL, Google BigQuery
-- **Others:** GitHub
+- **Others:** GitHub, LaTex
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hangtran108&layout=compact&theme=radical" alt="Top Languages" />
