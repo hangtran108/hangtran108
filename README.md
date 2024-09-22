@@ -3,7 +3,7 @@
 </div>
 
 # Hi there, I'm Hang Tran! 👋
-🎓 **Currently pursuing a Master's degree in Data Science** at [Vrije Universiteit Amsterdam](https://vu.nl/en).  
+🎓 Currently pursuing a **Master's degree in Data Science** at [Vrije Universiteit Amsterdam](https://vu.nl/en).  
 📊 **Bachelor's in Applied Mathematics** from [International University, Vietnam National University Ho Chi Minh City](https://www.hcmiu.edu.vn/).  
 💻 **Data Scientist | Business Analyst | Optimization Enthusiast**
 
@@ -24,7 +24,7 @@
 
 ## 🔥 About Me
 
-I am passionate about random events and love solving optimization problems by applying mathematical algorithms and ML/DL models. During my Bachelor's in Applied Mathematics, I developed a strong foundation in statistical modeling and optimization algorithms. Now, as a Master's student in Data Science at VU Amsterdam, I'm diving deeper into advanced machine learning and deep learning techniques.
+I am passionate about random events and love solving optimization problems by applying mathematical algorithms and ML/DL models to help businesses grow. During my Bachelor's in Applied Mathematics, I developed a strong foundation in statistical modeling and optimization algorithms. Now, as a Master's student in Data Science at VU Amsterdam, I'm diving deeper into advanced machine learning and deep learning techniques.
 
 ---
 
@@ -32,7 +32,7 @@ I am passionate about random events and love solving optimization problems by ap
 
 - **Languages:** Python, R, SQL, PHP, HTML, CSS
 - **Data Tools:** Google BigQuery, Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow
-- **Web Development:** PHP, HTML5, CSS
+- **Web Development:** PHP, HTML, CSS
 - **Databases:** MySQL, PostgreSQL, Google BigQuery
 - **Others:** GitHub, LaTex
 
