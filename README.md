@@ -45,9 +45,9 @@ I am passionate about random events and love solving optimization problems by ap
 ## 📈 Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hangtran108&theme=radical" alt="GitHub Streak Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=hangtran108&show_icons=true&theme=radical" alt="GitHub Stats" />
+<a href="https://github.com/hangtran108">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hangtran108">
+</a>
 </p>
 
 ---
