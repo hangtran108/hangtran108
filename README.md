@@ -24,7 +24,7 @@
 
 ## 🔥 About Me
 
-I am passionate about random events and love solving optimization problems by applying mathematical algorithms and ML/DL models to help businesses grow. During my Bachelor's in Applied Mathematics, I developed a strong foundation in statistical modeling and optimization algorithms. Now, as a Master's student in Data Science at VU Amsterdam, I'm diving deeper into advanced machine learning and deep learning techniques.
+I am passionate about finding insights behind all the numbers, dealing with random events and love solving optimization problems by applying mathematical algorithms and ML/DL models to help businesses grow. During my Bachelor's in Applied Mathematics, I developed a strong foundation in statistical modeling and optimization algorithms. Now, as a Master's student in Data Science at VU Amsterdam, I'm diving deeper into advanced machine learning and deep learning techniques.
 
 ---
 
