@@ -32,7 +32,7 @@ I am passionate about finding insights behind all the numbers, dealing with rand
 
 - **Languages:** Python, R, SQL, PHP, HTML, CSS
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Keras, Sklearn, Plotly, TensorFlow, PyTorch
-- **Data Tools:** Google BigQuery, Google Data Studio, Kepler
+- **Data Tools:** Google BigQuery, Google Data Studio, Kepler, Superset
 - **Databases:** MySQL, PostgreSQL
 - **Others:** GitHub, LaTex
 
