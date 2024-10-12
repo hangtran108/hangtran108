@@ -31,9 +31,9 @@ I am passionate about finding insights behind all the numbers, dealing with rand
 ## 🛠️ Skills & Tools
 
 - **Languages:** Python, R, SQL, PHP, HTML, CSS
-- **Data Tools:** Google BigQuery, Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow, PyTorch, Kepler
-- **Web Development:** PHP, HTML, CSS
-- **Databases:** MySQL, PostgreSQL, Google BigQuery
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Keras, Sklearn, Plotly, TensorFlow, PyTorch
+- **Data Tools:** Google BigQuery, Google Data Studio, Kepler
+- **Databases:** MySQL, PostgreSQL
 - **Others:** GitHub, LaTex
 
 <p align="center">
