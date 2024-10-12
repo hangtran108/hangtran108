@@ -3,7 +3,7 @@
 </div>
 
 # Hi there, I'm Hang Tran! 👋
-🎓 Currently pursuing a **Master's degree in Data Science** at [Vrije Universiteit Amsterdam](https://vu.nl/en).  
+🎓 Currently pursuing a **Master's degree in Data Science** with a VUFP full scholarship at [Vrije Universiteit Amsterdam](https://vu.nl/en).  
 📊 **Bachelor's in Applied Mathematics** from [International University, Vietnam National University Ho Chi Minh City](https://www.hcmiu.edu.vn/).  
 💻 **Data Scientist | Business Analyst | Optimization Enthusiast**
 
