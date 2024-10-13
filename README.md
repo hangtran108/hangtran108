@@ -34,7 +34,7 @@ I am passionate about finding insights behind all the numbers, dealing with rand
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Keras, Sklearn, Plotly, TensorFlow, PyTorch
 - **Data Tools:** Google BigQuery, Google Data Studio, Kepler, Superset
 - **Databases:** MySQL, PostgreSQL
-- **Others:** GitHub, LaTex
+- **Others:** GitHub, LaTex, RMarkdown, Confluence
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hangtran108&layout=compact&theme=radical" alt="Top Languages" />
