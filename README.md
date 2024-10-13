@@ -1,6 +1,9 @@
 <div align="center">
   <img src="header.jpg" alt="Banner" width="100%" />
 </div>
+<h1>
+  <img align="right" src="https://komarev.com/ghpvc/?username=hangtran108" alt="GitHub profile views counter">
+</h1>
 
 # Hi there, I'm Hang Tran! 👋
 🎓 Currently pursuing a **Master's degree in Data Science** with a VUFP full scholarship at [Vrije Universiteit Amsterdam](https://vu.nl/en).  
