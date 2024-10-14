@@ -33,7 +33,7 @@ Some key projects I worked on during 2 years at [Be Group](https://be.com.vn/en/
 - Driver churn prediction using Logistic Regression, Random Forest and Logit Leaf Model (AUC = 90%)
 - Applying PCA and K-Means algorithm to segment drivers and analyze each segment’s characteristics (Silhouette Score: 84%)
 - Deep-dive Analysis of Driver Life Cycle on the platform
-- Geospatial analysis for demand and supply gaps by hexagons using [Kepler.gl](kepler.gl)
+- Geospatial analysis for demand and supply gaps by hexagons using [Kepler.gl](https://kepler.gl/)
 - Crawling weather data updated hourly for dynamic pricing models
 - Real-time incentive tool on Be’s driver app launched in 9/2023
 - 2 new services’ launch: beCar Plus (4/2024) and beBike Plus (6/2024)
