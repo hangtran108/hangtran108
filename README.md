@@ -29,6 +29,19 @@
 
 I am passionate about finding insights behind all the numbers, dealing with random events and love solving optimization problems by applying mathematical algorithms and ML/DL models to help businesses grow. During my Bachelor's in Applied Mathematics, I developed a strong foundation in statistical modeling and optimization algorithms. Now, as a Master's student in Data Science at VU Amsterdam, I'm diving deeper into advanced machine learning and deep learning techniques.
 
+Some key projects I worked on during 2 years at [Be Group](https://be.com.vn/en/) - Vietnamese biggest ride-hailing company:
+- [Driver churn prediction](https://github.com/hangtran108/driver-churn-prediction) using Logistic Regression, Random Forest and Logit Leaf Model (AUC = 90%)
+- Applying PCA and K-Means algorithm to segment drivers and analyze each segment’s characteristics (Silhouette Score: 84%)
+- Deep-dive Analysis of the Driver Life Cycle on the platform
+- Geospatial analysis for demand and supply gaps by hexagons using Kepler.gl
+- Crawling weather data updated hourly for dynamic pricing models
+- Real-time incentive tool on Be’s driver app launched in 9/2023
+- 2 new services’ launch: beCar Plus (4/2024) and beBike Plus (6/2024)
+- [Creating Telegram chatbot](https://github.com/hangtran108/create-telegram-chatbot) for instant updates of key business metrics for business stakeholders
+- [Dashboard automation](https://github.com/hangtran108/automate-google-sheets-dashboards) using Google API, Apps Script and Superset
+- Analysis of weekly number of active drivers using ARIMA, SARIMA, ETS model to support incentive planning
+- Driver's target earning analysis using Monte Carlo simulation
+
 ---
 
 ## 🛠️ Skills & Tools
