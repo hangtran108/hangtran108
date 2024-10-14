@@ -32,7 +32,7 @@ I am passionate about finding insights behind all the numbers, dealing with rand
 Some key projects I worked on during 2 years at [Be Group](https://be.com.vn/en/) - Vietnamese biggest ride-hailing company:
 - [Driver churn prediction](https://github.com/hangtran108/driver-churn-prediction) using Logistic Regression, Random Forest and Logit Leaf Model (AUC = 90%)
 - Applying PCA and K-Means algorithm to segment drivers and analyze each segment’s characteristics (Silhouette Score: 84%)
-- Deep-dive Analysis of the Driver Life Cycle on the platform
+- Deep-dive Analysis of Driver Life Cycle on the platform
 - Geospatial analysis for demand and supply gaps by hexagons using Kepler.gl
 - Crawling weather data updated hourly for dynamic pricing models
 - Real-time incentive tool on Be’s driver app launched in 9/2023
