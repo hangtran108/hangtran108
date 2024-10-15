@@ -48,7 +48,7 @@ Some key projects I worked on during 2 years at [Be Group](https://be.com.vn/en/
 
 - **Languages:** Python, R, SQL, PHP, HTML, CSS
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Keras, Sklearn, Plotly, TensorFlow, PyTorch
-- **Data Tools:** Google BigQuery, Google Data Studio, Kepler, Superset
+- **Data Tools:** Google BigQuery, Google Data Studio, Google Sheets, Kepler, Superset
 - **Databases:** MySQL, PostgreSQL
 - **Others:** GitHub, LaTex, RMarkdown, Confluence
 
