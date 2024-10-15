@@ -50,7 +50,7 @@ Some key projects I worked on during 2 years at [Be Group](https://be.com.vn/en/
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Keras, Sklearn, Plotly, TensorFlow, PyTorch
 - **Data Tools:** Google BigQuery, Google Data Studio, Google Sheets, Kepler, Superset
 - **Databases:** MySQL, PostgreSQL
-- **Others:** GitHub, LaTex, RMarkdown, Confluence
+- **Others:** GitHub, LaTex, RMarkdown, Confluence, Wordpress
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hangtran108&layout=compact&theme=radical" alt="Top Languages" />
